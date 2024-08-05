@@ -11,7 +11,18 @@ Je suis un développeur web passionné basé en région Parisienne, cela fait un
 
 ## 📈 Projets & Réalisations
 
-A venir
+### Pokedex
+
+- **Technologies utilisées :** PHP (Symfony), Twig, Bootstrap, MySQL (Doctrine ORM)
+- **Fonctionnalités :**
+  - Thème Dark / Light
+  - Filtrer les pokemons par type en cliquant sur le bouton correspondant
+  - Filtrer les pokemons en faisant une recherche
+  - Application responsive (adaptée pour mobile et ordinateur)
+  - Ajouter / modifier / supprimer un pokemon de façon sécurisée
+  - URL dynamique
+- **Lien du dépôt :** [Lien vers le projet Pokedex](https://github.com/FrancoisMorel73/Pokedex)
+
 
 ## 🌱 En cours d'apprentissage
 
