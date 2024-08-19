@@ -33,7 +33,7 @@ Je suis un développeur web passionné basé en région Parisienne, cela fait un
   -  Système d'authentification complet et sécurisé : Inscription, connexion, déconnexion, modification des informations personnelles
   -  Ajout d'avis sur un film ou une série et possibilité de le modifier ou de le supprimé (Cette fonctionnalité réservée aux utilisateurs authentifiés)
   -  Enregistrer des films ou séries en favoris et pouvoir les consultés sur une page spécifique (Cette fonctionnalité réservée aux utilisateurs authentifiés)
-- **Lien du dépôt :** [Lien vers le projet Movie DB](https://github.com/FrancoisMorel73/MovieDB)
+- **Lien du dépôt :** [Lien vers le projet Movie DB](https://github.com/FrancoisMorel73/movie-db)
    
 ## 🌱 En cours d'apprentissage
 
