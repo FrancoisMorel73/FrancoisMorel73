@@ -4,8 +4,8 @@ Je suis un développeur web passionné basé en région Parisienne, cela fait un
 
 ## 🔧 Technologies & Outils
 
-- **Langages :** JavaScript, TypeScript PHP, HTML, CSS,
-- **Frameworks et Bibliothèques :** React, Symfony, Laravel, Bootstrap, Tailwind
+- **Langages :** JavaScript, TypeScript, NodeJS, PHP, HTML, CSS,
+- **Frameworks et Bibliothèques :** React, Symfony, Laravel, Express, Bootstrap, Tailwind
 - **Outils :** Git, Visual Studio Code, PhpStorm
 - **Base de Données :** MariaDB, MySQL
 
