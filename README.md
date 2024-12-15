@@ -34,11 +34,19 @@ Je suis un développeur web passionné basé en région Parisienne, cela fait un
   -  Ajout d'avis sur un film ou une série et possibilité de le modifier ou de le supprimé (Cette fonctionnalité réservée aux utilisateurs authentifiés)
   -  Enregistrer des films ou séries en favoris et pouvoir les consultés sur une page spécifique (Cette fonctionnalité réservée aux utilisateurs authentifiés)
 - **Lien du dépôt :** [Lien vers le projet Movie DB](https://github.com/FrancoisMorel73/movie-db)
+
+### O'Coffee
+
+- **Technologies utilisées :** NodeJS, Express, EJS, PostgreSQL
+- **Fonctionnalités :**
+  - Présentation immersive de l'ambiance et des produits
+  - Mise en page optimisée pour une navigation fluide et agréable
+  - Filtrage dynamique des produits dans le catalogue
+- **Lien du dépôt :** [Lien vers le projet O'Coffee](https://github.com/FrancoisMorel73/o-coffee)
    
 ## 🌱 En cours d'apprentissage
 
-- Next.js
-- Three.js
+Actuellement en cours de formation avec l'école O'Clock pour la préparation du titre professionnel CDA (Concepteur Développeur d'Applications)
 
 ## 📫 Me contacter
 
