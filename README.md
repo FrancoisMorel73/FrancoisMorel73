@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis François MOREL !
 
-Je suis un développeur web passionné basé en région Parisienne, cela fait un peu plus d'un an que j'ai commencé le développement web. Mon objectif est de progresser constamment et d'améliorer mes compétences.
+Je suis un développeur web passionné basé en région Parisienne, cela fait un an et demi que j'ai commencé le développement web. Mon objectif est de progresser constamment et d'améliorer mes compétences.
 
 ## 🔧 Technologies & Outils
 
@@ -52,10 +52,7 @@ Actuellement en cours de formation avec l'école O'Clock pour la préparation du
 
 - **Email :** [francois.morel73@orange.fr](mailto:francois.morel73@orange.fr)
 - **LinkedIn :** [https://www.linkedin.com/in/francois-morel-dev/](https://www.linkedin.com/in/francois-morel-dev/)
-
-## 🌐 Où me trouver
-
-- [Mon CV en ligne](https://francoismorel73.github.io/)
+- **CV :** [au format PDF](https://francoismorel73.github.io/CV-dev-2024-12.pdf)
 
 Merci de visiter mon profil GitHub ! N'hésitez pas à jeter un coup d'œil à mes projets et à me contacter pour toute collaboration ou juste pour dire bonjour !
 
